@@ -1,1 +1,4 @@
 to_be_ignored.txt
+.gitignore.save
+.ipynb_checkpoints/
+
